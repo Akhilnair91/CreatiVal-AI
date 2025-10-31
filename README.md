@@ -166,11 +166,12 @@ Post-hackathon development would include:
 
 ### 👥 Team & Credits
 
-This hackathon project showcases the power of unified platforms in transforming complex workflows. The frontend demo represents the user experience, while the backend architecture (not included for confidentiality) handles the AI processing, compliance validation, and data management.
+This project showcases the power of unified platforms in transforming complex workflows. The frontend demo represents the user experience, while the backend architecture (not included for confidentiality) handles the AI processing, compliance validation, and data management.
 
 **Ready to revolutionize email marketing! 🚀**
 
 ---
 
 
-*Note: This is a frontend-only demo for hackathon presentation. The complete backend implementation with AI capabilities is proprietary and not included in this repository.*      
+*Note: This is a frontend-only demo for hackathon presentation. The complete backend implementation with AI capabilities is not included in this repository.*      
+
