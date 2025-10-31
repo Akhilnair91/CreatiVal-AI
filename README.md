@@ -2,7 +2,7 @@
 
 ## 🎯 Hackathon Project Overview
 
-**CreatiVal-AI** is a revolutionary unified platform that transforms email marketing workflow by consolidating 5-7 fragmented tools into a single, AI-powered interface. This hackathon project demonstrates how marketing teams can create compliant, professional email templates in **15-30 minutes** instead of the current **4-8 hours** - a **10-15x productivity improvement**.
+**CreatiVal-AI** is a revolutionary unified platform that transforms email marketing workflow by consolidating 5-7 fragmented tools into a single, AI-powered interface. This hackathon project demonstrates how marketing teams can create compliant, professional email templates in **1-2 days** instead of the current **1-2 weeks** - a **10-15x productivity improvement**.
 
 ### 🚀 The Problem
 
@@ -171,5 +171,6 @@ This hackathon project showcases the power of unified platforms in transforming 
 **Ready to revolutionize email marketing! 🚀**
 
 ---
+
 
 *Note: This is a frontend-only demo for hackathon presentation. The complete backend implementation with AI capabilities is proprietary and not included in this repository.*      
